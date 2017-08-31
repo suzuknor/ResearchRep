@@ -1,0 +1,11 @@
+Correlation,Country Code,Index
+-0.7533781325914201,GB,economicGrowth
+-0.7308305875430231,JP,economicUncertainty
+-0.7212411729447435,KP,financialSystemInstability
+-0.7121550089420549,KP,interestRates
+-0.7102696666168093,IR,emotionVsFact
+-0.7066163643589242,ZA,governmentCorruption
+-0.7034485796300869,IQ,residentialRealEstateGrowth
+-0.6960151338239127,JP,fear
+-0.6948199674414444,JP,naturalDisasters
+-0.6848697621360214,ZA,financialSystemInstability

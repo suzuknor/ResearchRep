@@ -1,0 +1,11 @@
+Correlation,Country Code,Index
+-0.7223086863452842,CH,conflict
+-0.6730314648507574,CN,economicUncertainty
+-0.6518492431397416,KP,investmentFlows
+-0.6252818294755352,AU,creditEasyVsTight
+-0.6161741070079991,DE,sentiment
+-0.6132008949857751,JP,naturalDisasters
+-0.6128881486302333,MX,violence
+-0.6059933308318993,JP,violence
+-0.6042908496651023,CH,interestRatesForecast
+-0.6021471207925335,GB,gloom

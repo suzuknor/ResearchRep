@@ -1,0 +1,233 @@
+--->retrieve  TRMI.Live.COU.WDAI_UHOU.20170830-0900.02219.txt
+Copying file:///home/suzuknor/devel/marketPsych/data/TRMI.Live.COU.WDAI_UHOU.20170830-0900.02219.txt.m [Content-Type=application/octet-stream]...
+/ [0 files][    0.0 B/156.8 KiB]                                                / [1 files][156.8 KiB/156.8 KiB]                                                -
+Operation completed over 1 objects/156.8 KiB.                                    
+Waiting on bqjob_r235b993b3de6cebe_0000015e325fa513_1 ... (0s) Current status: RUNNING                                                                                      Waiting on bqjob_r235b993b3de6cebe_0000015e325fa513_1 ... (1s) Current status: RUNNING                                                                                      Waiting on bqjob_r235b993b3de6cebe_0000015e325fa513_1 ... (1s) Current status: DONE   
+Removing gs://trmi/COU/WDAI_UHOU/TRMI.Live.COU.WDAI_UHOU.20170830-0900.02219.txt...
+/ [1 objects]                                                                   
+Operation completed over 1 objects.                                              
+--->retrieve  TRMI.Live.COU.WDAI_UHOU.20170830-1000.02219.txt
+Copying file:///home/suzuknor/devel/marketPsych/data/TRMI.Live.COU.WDAI_UHOU.20170830-1000.02219.txt.m [Content-Type=application/octet-stream]...
+/ [0 files][    0.0 B/156.9 KiB]                                                / [1 files][156.9 KiB/156.9 KiB]                                                -
+Operation completed over 1 objects/156.9 KiB.                                    
+Waiting on bqjob_r68ee5c92c908fc2b_0000015e3296b2f6_1 ... (0s) Current status: RUNNING                                                                                      Waiting on bqjob_r68ee5c92c908fc2b_0000015e3296b2f6_1 ... (1s) Current status: RUNNING                                                                                      Waiting on bqjob_r68ee5c92c908fc2b_0000015e3296b2f6_1 ... (1s) Current status: DONE   
+Removing gs://trmi/COU/WDAI_UHOU/TRMI.Live.COU.WDAI_UHOU.20170830-1000.02219.txt...
+/ [1 objects]                                                                   
+Operation completed over 1 objects.                                              
+--->retrieve  TRMI.Live.COU.WDAI_UHOU.20170830-1100.02219.txt
+Copying file:///home/suzuknor/devel/marketPsych/data/TRMI.Live.COU.WDAI_UHOU.20170830-1100.02219.txt.m [Content-Type=application/octet-stream]...
+/ [0 files][    0.0 B/157.3 KiB]                                                / [1 files][157.3 KiB/157.3 KiB]                                                -
+Operation completed over 1 objects/157.3 KiB.                                    
+Waiting on bqjob_r1fbf45785a58d94d_0000015e32cdc56e_1 ... (0s) Current status: RUNNING                                                                                      Waiting on bqjob_r1fbf45785a58d94d_0000015e32cdc56e_1 ... (1s) Current status: RUNNING                                                                                      Waiting on bqjob_r1fbf45785a58d94d_0000015e32cdc56e_1 ... (1s) Current status: DONE   
+Removing gs://trmi/COU/WDAI_UHOU/TRMI.Live.COU.WDAI_UHOU.20170830-1100.02219.txt...
+/ [1 objects]                                                                   
+Operation completed over 1 objects.                                              
+--->retrieve  TRMI.Live.COU.WDAI_UHOU.20170830-1200.02219.txt
+Copying file:///home/suzuknor/devel/marketPsych/data/TRMI.Live.COU.WDAI_UHOU.20170830-1200.02219.txt.m [Content-Type=application/octet-stream]...
+/ [0 files][    0.0 B/157.3 KiB]                                                / [1 files][157.3 KiB/157.3 KiB]                                                -
+Operation completed over 1 objects/157.3 KiB.                                    
+Waiting on bqjob_r9dc8eb3bf2aacf1_0000015e3304bedf_1 ... (0s) Current status: RUNNING                                                                                     Waiting on bqjob_r9dc8eb3bf2aacf1_0000015e3304bedf_1 ... (1s) Current status: RUNNING                                                                                     Waiting on bqjob_r9dc8eb3bf2aacf1_0000015e3304bedf_1 ... (1s) Current status: DONE   
+Removing gs://trmi/COU/WDAI_UHOU/TRMI.Live.COU.WDAI_UHOU.20170830-1200.02219.txt...
+/ [1 objects]                                                                   
+Operation completed over 1 objects.                                              
+--->retrieve  TRMI.Live.COU.WDAI_UHOU.20170830-1300.02219.txt
+Copying file:///home/suzuknor/devel/marketPsych/data/TRMI.Live.COU.WDAI_UHOU.20170830-1300.02219.txt.m [Content-Type=application/octet-stream]...
+/ [0 files][    0.0 B/156.7 KiB]                                                / [1 files][156.7 KiB/156.7 KiB]                                                -
+Operation completed over 1 objects/156.7 KiB.                                    
+Waiting on bqjob_r6f2471f3a8cfd06c_0000015e333bca5b_1 ... (0s) Current status: RUNNING                                                                                      Waiting on bqjob_r6f2471f3a8cfd06c_0000015e333bca5b_1 ... (1s) Current status: RUNNING                                                                                      Waiting on bqjob_r6f2471f3a8cfd06c_0000015e333bca5b_1 ... (1s) Current status: DONE   
+Removing gs://trmi/COU/WDAI_UHOU/TRMI.Live.COU.WDAI_UHOU.20170830-1300.02219.txt...
+/ [1 objects]                                                                   
+Operation completed over 1 objects.                                              
+--->retrieve  TRMI.Live.COU.WDAI_UHOU.20170830-1400.02219.txt
+Copying file:///home/suzuknor/devel/marketPsych/data/TRMI.Live.COU.WDAI_UHOU.20170830-1400.02219.txt.m [Content-Type=application/octet-stream]...
+/ [0 files][    0.0 B/157.2 KiB]                                                / [1 files][157.2 KiB/157.2 KiB]                                                -
+Operation completed over 1 objects/157.2 KiB.                                    
+Waiting on bqjob_r74e319dceb0a6a22_0000015e3372d38d_1 ... (0s) Current status: RUNNING                                                                                      Waiting on bqjob_r74e319dceb0a6a22_0000015e3372d38d_1 ... (1s) Current status: RUNNING                                                                                      Waiting on bqjob_r74e319dceb0a6a22_0000015e3372d38d_1 ... (1s) Current status: DONE   
+Removing gs://trmi/COU/WDAI_UHOU/TRMI.Live.COU.WDAI_UHOU.20170830-1400.02219.txt...
+/ [1 objects]                                                                   
+Operation completed over 1 objects.                                              
+--->retrieve  TRMI.Live.COU.WDAI_UHOU.20170830-1500.02219.txt
+Copying file:///home/suzuknor/devel/marketPsych/data/TRMI.Live.COU.WDAI_UHOU.20170830-1500.02219.txt.m [Content-Type=application/octet-stream]...
+/ [0 files][    0.0 B/157.0 KiB]                                                / [1 files][157.0 KiB/157.0 KiB]                                                -
+Operation completed over 1 objects/157.0 KiB.                                    
+Waiting on bqjob_r20d46d85ba89c7fe_0000015e33a9df75_1 ... (0s) Current status: RUNNING                                                                                      Waiting on bqjob_r20d46d85ba89c7fe_0000015e33a9df75_1 ... (1s) Current status: RUNNING                                                                                      Waiting on bqjob_r20d46d85ba89c7fe_0000015e33a9df75_1 ... (1s) Current status: DONE   
+Removing gs://trmi/COU/WDAI_UHOU/TRMI.Live.COU.WDAI_UHOU.20170830-1500.02219.txt...
+/ [1 objects]                                                                   
+Operation completed over 1 objects.                                              
+--->retrieve  TRMI.Live.COU.WDAI_UHOU.20170830-1600.02219.txt
+Copying file:///home/suzuknor/devel/marketPsych/data/TRMI.Live.COU.WDAI_UHOU.20170830-1600.02219.txt.m [Content-Type=application/octet-stream]...
+/ [0 files][    0.0 B/157.2 KiB]                                                / [1 files][157.2 KiB/157.2 KiB]                                                -
+Operation completed over 1 objects/157.2 KiB.                                    
+Waiting on bqjob_r406b908eaeb335_0000015e33e0df44_1 ... (0s) Current status: RUNNING                                                                                    Waiting on bqjob_r406b908eaeb335_0000015e33e0df44_1 ... (1s) Current status: RUNNING                                                                                    Waiting on bqjob_r406b908eaeb335_0000015e33e0df44_1 ... (1s) Current status: DONE   
+Removing gs://trmi/COU/WDAI_UHOU/TRMI.Live.COU.WDAI_UHOU.20170830-1600.02219.txt...
+/ [1 objects]                                                                   
+Operation completed over 1 objects.                                              
+--->retrieve  TRMI.Live.COU.WDAI_UHOU.20170830-1700.02219.txt
+Copying file:///home/suzuknor/devel/marketPsych/data/TRMI.Live.COU.WDAI_UHOU.20170830-1700.02219.txt.m [Content-Type=application/octet-stream]...
+/ [0 files][    0.0 B/157.4 KiB]                                                / [1 files][157.4 KiB/157.4 KiB]                                                -
+Operation completed over 1 objects/157.4 KiB.                                    
+Waiting on bqjob_r5aa67a1f9cea275a_0000015e3417e915_1 ... (0s) Current status: RUNNING                                                                                      Waiting on bqjob_r5aa67a1f9cea275a_0000015e3417e915_1 ... (1s) Current status: RUNNING                                                                                      Waiting on bqjob_r5aa67a1f9cea275a_0000015e3417e915_1 ... (2s) Current status: RUNNING                                                                                      Waiting on bqjob_r5aa67a1f9cea275a_0000015e3417e915_1 ... (2s) Current status: DONE   
+Removing gs://trmi/COU/WDAI_UHOU/TRMI.Live.COU.WDAI_UHOU.20170830-1700.02219.txt...
+/ [1 objects]                                                                   
+Operation completed over 1 objects.                                              
+--->retrieve  TRMI.Live.COU.WDAI_UHOU.20170830-1800.02219.txt
+Copying file:///home/suzuknor/devel/marketPsych/data/TRMI.Live.COU.WDAI_UHOU.20170830-1800.02219.txt.m [Content-Type=application/octet-stream]...
+/ [0 files][    0.0 B/157.3 KiB]                                                / [1 files][157.3 KiB/157.3 KiB]                                                -
+Operation completed over 1 objects/157.3 KiB.                                    
+BigQuery error in load operation: Error encountered during execution. Retrying
+may solve the problem.
+Removing gs://trmi/COU/WDAI_UHOU/TRMI.Live.COU.WDAI_UHOU.20170830-1800.02219.txt...
+/ [1 objects]                                                                   
+Operation completed over 1 objects.                                              
+--->retrieve  TRMI.Live.COU.WDAI_UHOU.20170830-1900.02219.txt
+Copying file:///home/suzuknor/devel/marketPsych/data/TRMI.Live.COU.WDAI_UHOU.20170830-1900.02219.txt.m [Content-Type=application/octet-stream]...
+/ [0 files][    0.0 B/157.3 KiB]                                                / [1 files][157.3 KiB/157.3 KiB]                                                -
+Operation completed over 1 objects/157.3 KiB.                                    
+Waiting on bqjob_rc1a03c917159689_0000015e3485d147_1 ... (0s) Current status: RUNNING                                                                                     Waiting on bqjob_rc1a03c917159689_0000015e3485d147_1 ... (1s) Current status: RUNNING                                                                                     Waiting on bqjob_rc1a03c917159689_0000015e3485d147_1 ... (1s) Current status: DONE   
+Removing gs://trmi/COU/WDAI_UHOU/TRMI.Live.COU.WDAI_UHOU.20170830-1900.02219.txt...
+/ [1 objects]                                                                   
+Operation completed over 1 objects.                                              
+--->retrieve  TRMI.Live.COU.WDAI_UHOU.20170830-2000.02219.txt
+Copying file:///home/suzuknor/devel/marketPsych/data/TRMI.Live.COU.WDAI_UHOU.20170830-2000.02219.txt.m [Content-Type=application/octet-stream]...
+/ [0 files][    0.0 B/157.4 KiB]                                                / [1 files][157.4 KiB/157.4 KiB]                                                -
+Operation completed over 1 objects/157.4 KiB.                                    
+Waiting on bqjob_r70733c81c8d652a2_0000015e34bbd96e_1 ... (0s) Current status: RUNNING                                                                                      Waiting on bqjob_r70733c81c8d652a2_0000015e34bbd96e_1 ... (1s) Current status: RUNNING                                                                                      Waiting on bqjob_r70733c81c8d652a2_0000015e34bbd96e_1 ... (1s) Current status: DONE   
+Removing gs://trmi/COU/WDAI_UHOU/TRMI.Live.COU.WDAI_UHOU.20170830-2000.02219.txt...
+/ [1 objects]                                                                   
+Operation completed over 1 objects.                                              
+--->retrieve  TRMI.Live.COU.WDAI_UHOU.20170830-2100.02219.txt
+Copying file:///home/suzuknor/devel/marketPsych/data/TRMI.Live.COU.WDAI_UHOU.20170830-2100.02219.txt.m [Content-Type=application/octet-stream]...
+/ [0 files][    0.0 B/157.9 KiB]                                                / [1 files][157.9 KiB/157.9 KiB]                                                -
+Operation completed over 1 objects/157.9 KiB.                                    
+Waiting on bqjob_r36eb1d36fc8f0f70_0000015e34f2d915_1 ... (0s) Current status: RUNNING                                                                                      Waiting on bqjob_r36eb1d36fc8f0f70_0000015e34f2d915_1 ... (1s) Current status: RUNNING                                                                                      Waiting on bqjob_r36eb1d36fc8f0f70_0000015e34f2d915_1 ... (1s) Current status: DONE   
+Removing gs://trmi/COU/WDAI_UHOU/TRMI.Live.COU.WDAI_UHOU.20170830-2100.02219.txt...
+/ [1 objects]                                                                   
+Operation completed over 1 objects.                                              
+--->retrieve  TRMI.Live.COU.WDAI_UHOU.20170830-2200.02219.txt
+Copying file:///home/suzuknor/devel/marketPsych/data/TRMI.Live.COU.WDAI_UHOU.20170830-2200.02219.txt.m [Content-Type=application/octet-stream]...
+/ [0 files][    0.0 B/158.1 KiB]                                                / [1 files][158.1 KiB/158.1 KiB]                                                -
+Operation completed over 1 objects/158.1 KiB.                                    
+Waiting on bqjob_r1a77a98666f722aa_0000015e3529cfa0_1 ... (0s) Current status: RUNNING                                                                                      Waiting on bqjob_r1a77a98666f722aa_0000015e3529cfa0_1 ... (1s) Current status: RUNNING                                                                                      Waiting on bqjob_r1a77a98666f722aa_0000015e3529cfa0_1 ... (1s) Current status: DONE   
+Removing gs://trmi/COU/WDAI_UHOU/TRMI.Live.COU.WDAI_UHOU.20170830-2200.02219.txt...
+/ [1 objects]                                                                   
+Operation completed over 1 objects.                                              
+--->retrieve  TRMI.Live.COU.WDAI_UHOU.20170830-2300.02219.txt
+Copying file:///home/suzuknor/devel/marketPsych/data/TRMI.Live.COU.WDAI_UHOU.20170830-2300.02219.txt.m [Content-Type=application/octet-stream]...
+/ [0 files][    0.0 B/158.8 KiB]                                                / [1 files][158.8 KiB/158.8 KiB]                                                -
+Operation completed over 1 objects/158.8 KiB.                                    
+Waiting on bqjob_rc7ae0e6bc60c07_0000015e3560cd73_1 ... (0s) Current status: RUNNING                                                                                    Waiting on bqjob_rc7ae0e6bc60c07_0000015e3560cd73_1 ... (1s) Current status: RUNNING                                                                                    Waiting on bqjob_rc7ae0e6bc60c07_0000015e3560cd73_1 ... (1s) Current status: DONE   
+Removing gs://trmi/COU/WDAI_UHOU/TRMI.Live.COU.WDAI_UHOU.20170830-2300.02219.txt...
+/ [1 objects]                                                                   
+Operation completed over 1 objects.                                              
+--->retrieve  TRMI.Live.COU.WDAI_UHOU.20170831-0000.02219.txt
+Copying file:///home/suzuknor/devel/marketPsych/data/TRMI.Live.COU.WDAI_UHOU.20170831-0000.02219.txt.m [Content-Type=application/octet-stream]...
+/ [0 files][    0.0 B/158.8 KiB]                                                / [1 files][158.8 KiB/158.8 KiB]                                                -
+Operation completed over 1 objects/158.8 KiB.                                    
+Waiting on bqjob_r615701ef7704b1e0_0000015e3597d6f6_1 ... (0s) Current status: RUNNING                                                                                      Waiting on bqjob_r615701ef7704b1e0_0000015e3597d6f6_1 ... (1s) Current status: RUNNING                                                                                      Waiting on bqjob_r615701ef7704b1e0_0000015e3597d6f6_1 ... (1s) Current status: DONE   
+Removing gs://trmi/COU/WDAI_UHOU/TRMI.Live.COU.WDAI_UHOU.20170831-0000.02219.txt...
+/ [1 objects]                                                                   
+Operation completed over 1 objects.                                              
+Traceback (most recent call last):
+  File "./listFTP.py", line 17, in <module>
+    ftp.login()
+  File "/home/suzuknor/devel/marketPsych/src/ftpControl.py", line 22, in login
+    self.ftp = FTP(self.hostname)
+  File "/usr/lib64/python2.7/ftplib.py", line 120, in __init__
+    self.connect(host)
+  File "/usr/lib64/python2.7/ftplib.py", line 135, in connect
+    self.sock = socket.create_connection((self.host, self.port), self.timeout)
+  File "/usr/lib64/python2.7/socket.py", line 571, in create_connection
+    raise err
+socket.error: [Errno 111] Connection refused
+Traceback (most recent call last):
+  File "./listFTP.py", line 17, in <module>
+    ftp.login()
+  File "/home/suzuknor/devel/marketPsych/src/ftpControl.py", line 22, in login
+    self.ftp = FTP(self.hostname)
+  File "/usr/lib64/python2.7/ftplib.py", line 120, in __init__
+    self.connect(host)
+  File "/usr/lib64/python2.7/ftplib.py", line 135, in connect
+    self.sock = socket.create_connection((self.host, self.port), self.timeout)
+  File "/usr/lib64/python2.7/socket.py", line 571, in create_connection
+    raise err
+socket.error: [Errno 111] Connection refused
+--->retrieve  TRMI.Live.COU.WDAI_UHOU.20170830-2300.02219.txt
+Copying file:///home/suzuknor/devel/marketPsych/data/TRMI.Live.COU.WDAI_UHOU.20170830-2300.02219.txt.m [Content-Type=application/octet-stream]...
+/ [0 files][    0.0 B/158.8 KiB]                                                / [1 files][158.8 KiB/158.8 KiB]                                                -
+Operation completed over 1 objects/158.8 KiB.                                    
+Waiting on bqjob_r54be5df41ee46f93_0000015e35a4814c_1 ... (0s) Current status: RUNNING                                                                                      Waiting on bqjob_r54be5df41ee46f93_0000015e35a4814c_1 ... (0s) Current status: DONE   
+Removing gs://trmi/COU/WDAI_UHOU/TRMI.Live.COU.WDAI_UHOU.20170830-2300.02219.txt...
+/ [1 objects]                                                                   
+Operation completed over 1 objects.                                              
+--->retrieve  TRMI.Live.COU.WDAI_UHOU.20170831-0000.02219.txt
+Copying file:///home/suzuknor/devel/marketPsych/data/TRMI.Live.COU.WDAI_UHOU.20170831-0000.02219.txt.m [Content-Type=application/octet-stream]...
+/ [0 files][    0.0 B/158.8 KiB]                                                / [1 files][158.8 KiB/158.8 KiB]                                                -
+Operation completed over 1 objects/158.8 KiB.                                    
+Waiting on bqjob_r197ed050fe6bdac3_0000015e35a4cdf1_1 ... (0s) Current status: RUNNING                                                                                      Waiting on bqjob_r197ed050fe6bdac3_0000015e35a4cdf1_1 ... (0s) Current status: DONE   
+Removing gs://trmi/COU/WDAI_UHOU/TRMI.Live.COU.WDAI_UHOU.20170831-0000.02219.txt...
+/ [1 objects]                                                                   
+Operation completed over 1 objects.                                              
+--->retrieve  TRMI.Live.COU.WDAI_UHOU.20170831-0100.02219.txt
+Copying file:///home/suzuknor/devel/marketPsych/data/TRMI.Live.COU.WDAI_UHOU.20170831-0100.02219.txt.m [Content-Type=application/octet-stream]...
+/ [0 files][    0.0 B/158.6 KiB]                                                / [1 files][158.6 KiB/158.6 KiB]                                                -
+Operation completed over 1 objects/158.6 KiB.                                    
+Waiting on bqjob_r8dd06a72e2c3d66_0000015e35cf5029_1 ... (0s) Current status: RUNNING                                                                                     Waiting on bqjob_r8dd06a72e2c3d66_0000015e35cf5029_1 ... (1s) Current status: RUNNING                                                                                     Waiting on bqjob_r8dd06a72e2c3d66_0000015e35cf5029_1 ... (1s) Current status: DONE   
+Removing gs://trmi/COU/WDAI_UHOU/TRMI.Live.COU.WDAI_UHOU.20170831-0100.02219.txt...
+/ [1 objects]                                                                   
+Operation completed over 1 objects.                                              
+--->retrieve  TRMI.Live.COU.WDAI_UHOU.20170831-0200.02219.txt
+Copying file:///home/suzuknor/devel/marketPsych/data/TRMI.Live.COU.WDAI_UHOU.20170831-0200.02219.txt.m [Content-Type=application/octet-stream]...
+/ [0 files][    0.0 B/158.6 KiB]                                                / [1 files][158.6 KiB/158.6 KiB]                                                -
+Operation completed over 1 objects/158.6 KiB.                                    
+Waiting on bqjob_r33be6d752059b9c1_0000015e36064f1a_1 ... (0s) Current status: RUNNING                                                                                      Waiting on bqjob_r33be6d752059b9c1_0000015e36064f1a_1 ... (1s) Current status: RUNNING                                                                                      Waiting on bqjob_r33be6d752059b9c1_0000015e36064f1a_1 ... (1s) Current status: DONE   
+Removing gs://trmi/COU/WDAI_UHOU/TRMI.Live.COU.WDAI_UHOU.20170831-0200.02219.txt...
+/ [1 objects]                                                                   
+Operation completed over 1 objects.                                              
+--->retrieve  TRMI.Live.COU.WDAI_UHOU.20170831-0300.02219.txt
+Copying file:///home/suzuknor/devel/marketPsych/data/TRMI.Live.COU.WDAI_UHOU.20170831-0300.02219.txt.m [Content-Type=application/octet-stream]...
+/ [0 files][    0.0 B/158.7 KiB]                                                / [1 files][158.7 KiB/158.7 KiB]                                                -
+Operation completed over 1 objects/158.7 KiB.                                    
+Waiting on bqjob_ra83108d8e346e46_0000015e363d4e3e_1 ... (0s) Current status: RUNNING                                                                                     Waiting on bqjob_ra83108d8e346e46_0000015e363d4e3e_1 ... (1s) Current status: RUNNING                                                                                     Waiting on bqjob_ra83108d8e346e46_0000015e363d4e3e_1 ... (1s) Current status: DONE   
+Removing gs://trmi/COU/WDAI_UHOU/TRMI.Live.COU.WDAI_UHOU.20170831-0300.02219.txt...
+/ [1 objects]                                                                   
+Operation completed over 1 objects.                                              
+--->retrieve  TRMI.Live.COU.WDAI_UHOU.20170831-0400.02219.txt
+Copying file:///home/suzuknor/devel/marketPsych/data/TRMI.Live.COU.WDAI_UHOU.20170831-0400.02219.txt.m [Content-Type=application/octet-stream]...
+/ [0 files][    0.0 B/159.0 KiB]                                                / [1 files][159.0 KiB/159.0 KiB]                                                -
+Operation completed over 1 objects/159.0 KiB.                                    
+Waiting on bqjob_raef1e3aaf638a43_0000015e36735732_1 ... (0s) Current status: RUNNING                                                                                     Waiting on bqjob_raef1e3aaf638a43_0000015e36735732_1 ... (1s) Current status: RUNNING                                                                                     Waiting on bqjob_raef1e3aaf638a43_0000015e36735732_1 ... (1s) Current status: DONE   
+Removing gs://trmi/COU/WDAI_UHOU/TRMI.Live.COU.WDAI_UHOU.20170831-0400.02219.txt...
+/ [1 objects]                                                                   
+Operation completed over 1 objects.                                              
+--->retrieve  TRMI.Live.COU.WDAI_UHOU.20170831-0500.02219.txt
+Copying file:///home/suzuknor/devel/marketPsych/data/TRMI.Live.COU.WDAI_UHOU.20170831-0500.02219.txt.m [Content-Type=application/octet-stream]...
+/ [0 files][    0.0 B/159.0 KiB]                                                / [1 files][159.0 KiB/159.0 KiB]                                                -
+Operation completed over 1 objects/159.0 KiB.                                    
+Waiting on bqjob_r7813edf3bd77da75_0000015e36aa6901_1 ... (0s) Current status: RUNNING                                                                                      Waiting on bqjob_r7813edf3bd77da75_0000015e36aa6901_1 ... (1s) Current status: RUNNING                                                                                      Waiting on bqjob_r7813edf3bd77da75_0000015e36aa6901_1 ... (1s) Current status: DONE   
+Removing gs://trmi/COU/WDAI_UHOU/TRMI.Live.COU.WDAI_UHOU.20170831-0500.02219.txt...
+/ [1 objects]                                                                   
+Operation completed over 1 objects.                                              
+--->retrieve  TRMI.Live.COU.WDAI_UHOU.20170831-0600.02219.txt
+Copying file:///home/suzuknor/devel/marketPsych/data/TRMI.Live.COU.WDAI_UHOU.20170831-0600.02219.txt.m [Content-Type=application/octet-stream]...
+/ [0 files][    0.0 B/159.1 KiB]                                                / [1 files][159.1 KiB/159.1 KiB]                                                -
+Operation completed over 1 objects/159.1 KiB.                                    
+Waiting on bqjob_r620d20275ff1f0e0_0000015e36e17857_1 ... (0s) Current status: RUNNING                                                                                      Waiting on bqjob_r620d20275ff1f0e0_0000015e36e17857_1 ... (1s) Current status: RUNNING                                                                                      Waiting on bqjob_r620d20275ff1f0e0_0000015e36e17857_1 ... (1s) Current status: DONE   
+Removing gs://trmi/COU/WDAI_UHOU/TRMI.Live.COU.WDAI_UHOU.20170831-0600.02219.txt...
+/ [1 objects]                                                                   
+Operation completed over 1 objects.                                              
+--->retrieve  TRMI.Live.COU.WDAI_UHOU.20170831-0700.02219.txt
+Copying file:///home/suzuknor/devel/marketPsych/data/TRMI.Live.COU.WDAI_UHOU.20170831-0700.02219.txt.m [Content-Type=application/octet-stream]...
+/ [0 files][    0.0 B/159.2 KiB]                                                / [1 files][159.2 KiB/159.2 KiB]                                                -
+Operation completed over 1 objects/159.2 KiB.                                    
+Waiting on bqjob_r2511e3ca35e44a96_0000015e3718862a_1 ... (0s) Current status: RUNNING                                                                                      Waiting on bqjob_r2511e3ca35e44a96_0000015e3718862a_1 ... (1s) Current status: RUNNING                                                                                      Waiting on bqjob_r2511e3ca35e44a96_0000015e3718862a_1 ... (1s) Current status: DONE   
+Removing gs://trmi/COU/WDAI_UHOU/TRMI.Live.COU.WDAI_UHOU.20170831-0700.02219.txt...
+/ [1 objects]                                                                   
+Operation completed over 1 objects.                                              
+--->retrieve  TRMI.Live.COU.WDAI_UHOU.20170831-0800.02219.txt
+Copying file:///home/suzuknor/devel/marketPsych/data/TRMI.Live.COU.WDAI_UHOU.20170831-0800.02219.txt.m [Content-Type=application/octet-stream]...
+/ [0 files][    0.0 B/158.9 KiB]                                                / [1 files][158.9 KiB/158.9 KiB]                                                -
+Operation completed over 1 objects/158.9 KiB.                                    
+Waiting on bqjob_r17df65bcf95ae26f_0000015e374f9497_1 ... (0s) Current status: RUNNING                                                                                      Waiting on bqjob_r17df65bcf95ae26f_0000015e374f9497_1 ... (1s) Current status: RUNNING                                                                                      Waiting on bqjob_r17df65bcf95ae26f_0000015e374f9497_1 ... (1s) Current status: DONE   
+Removing gs://trmi/COU/WDAI_UHOU/TRMI.Live.COU.WDAI_UHOU.20170831-0800.02219.txt...
+/ [1 objects]                                                                   
+Operation completed over 1 objects.                                              

@@ -1,0 +1,2 @@
+id	assetCode	windowTimestamp	dataType	systemVersion	buzz	relativeBuzz	sentiment	optimism	fear	joy	trust	violence	conflict	gloom	stress	timeUrgency	uncertainty	emotionVsFact	longShort	longShortForecast	priceDirection	priceForecast	volatility	loveHate	carryTrade	currencyPegInstability	priceMomentum
+mp:1900-01-01_01.00.00.News.CUR.ZZZ	ZZZ	1900-01-01T00:00:00.000Z	News	2.2.18	9.0	0.001038	0.000000	-0.111111	0.0	0.0	0.0	0.0	0.0	0.333333	0.111111	0.0	0.0	0.222222	0.0	0.0	-0.111111	0.0	0.0	0.0	0.0	0.0	0.0

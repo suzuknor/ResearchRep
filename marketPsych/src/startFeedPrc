@@ -1,0 +1,13 @@
+#!/bin/sh
+
+# Change Dir to executable area
+cd /home/suzuknor/devel/marketPsych/bin
+java -jar ./feedPrc4Trmi.jar -h 127.0.0.1 -p 14002 -s ELEKTRON_DD -u suzuknor -n ./RIC.list &> ../log/feedPrc4Trmi.curPairJPY.log &
+#Start TRMI feed into BigQuery
+
+assetClass="JPY= EURJPY= GBPJPY= AUDJPY= CHFJPY= CADJPY= NZDJPY="
+cd /home/suzuknor/devel/marketPsych/src
+for ac in `echo $assetClass`; do
+    echo "Starting feed with $ac"
+    ./feedMarketData.sh $ac &> ../log/feedprc.$ac.log &
+done

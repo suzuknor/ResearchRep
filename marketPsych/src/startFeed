@@ -1,0 +1,13 @@
+#!/bin/sh
+
+# Change Dir to executable area
+cd /home/suzuknor/devel/marketPsych/src
+
+#Start TRMI feed into BigQuery
+
+assetClass="COU CUR COM_ENM COM_AGR"
+
+for ac in `echo $assetClass`; do
+    echo "Starting feed with $ac"
+    ./feedMarketPsych.sh $ac &> ../log/feed.$ac.log &
+done

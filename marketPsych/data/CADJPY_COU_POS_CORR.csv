@@ -1,0 +1,11 @@
+Correlation,Country Code,Index
+0.9017195856217703,US,US-innovation
+0.8850859885683563,ZA,ZA-economicVolatility
+0.8686265908892147,CA,CA-interestRates
+0.8674918298003921,BR,BR-inflation
+0.8615064259601339,IL,IL-sentiment
+0.8609668792533808,IL,IL-trust
+0.8568445696898449,US,US-sentiment
+0.8554339798386912,DE,DE-economicVolatility
+0.855051505499121,US,US-residentialRealEstateSentiment
+0.8531005812088074,IN,IN-sentiment

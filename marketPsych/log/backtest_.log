@@ -1,0 +1,1536 @@
+['IL', 'RU', 'EG']
+['emotionVsFact', 'governmentCorruption', 'stress']
+13294    114.31
+13295    114.25
+13296    114.27
+13297    114.28
+13298    114.31
+Name: lastPrice, dtype: float64
+[ 0.003]
+114.275
+===== Estimated Winning Rate: 1.0
+2017-05-1101:00:00,: Prediction = ,1,===== Actual PL = ,-0.1,===== Acumulative PL = ,-0.1,=====,114.32,:,114.22
+['IL', 'RU', 'EG']
+['emotionVsFact', 'governmentCorruption', 'stress']
+13295    114.25
+13296    114.27
+13297    114.28
+13298    114.31
+13299    114.32
+Name: lastPrice, dtype: float64
+[ 0.018]
+114.232
+===== Estimated Winning Rate: 0.996655518395
+2017-05-1102:00:00,: Prediction = ,1,===== Actual PL = ,-0.04,===== Acumulative PL = ,-0.14,=====,114.22,:,114.18
+['IL', 'RU', 'EG']
+['emotionVsFact', 'governmentCorruption', 'stress']
+13296    114.27
+13297    114.28
+13298    114.31
+13299    114.32
+13300    114.22
+Name: lastPrice, dtype: float64
+[-0.006]
+114.298
+===== Estimated Winning Rate: 0.983277591973
+2017-05-1103:00:00,: Prediction = ,0,===== Actual PL = ,-0.0,===== Acumulative PL = ,-0.14,=====,114.18,:,114.13
+['IL', 'RU', 'EG']
+['emotionVsFact', 'governmentCorruption', 'stress']
+13297    114.28
+13298    114.31
+13299    114.32
+13300    114.22
+13301    114.18
+Name: lastPrice, dtype: float64
+[-0.029]
+114.349
+===== Estimated Winning Rate: 0.983277591973
+2017-05-1104:00:00,: Prediction = ,-1,===== Actual PL = ,-0.07,===== Acumulative PL = ,-0.21,=====,114.13,:,114.2
+['EG', 'IL', 'RU']
+['stress', 'emotionVsFact', 'governmentCorruption']
+13298    114.31
+13299    114.32
+13300    114.22
+13301    114.18
+13302    114.13
+Name: lastPrice, dtype: float64
+[-0.05]
+114.382
+===== Estimated Winning Rate: 0.983277591973
+2017-05-1105:00:00,: Prediction = ,-1,===== Actual PL = ,-0.00999999999999,===== Acumulative PL = ,-0.22,=====,114.2,:,114.21
+['EG', 'RU', 'IL']
+['stress', 'governmentCorruption', 'emotionVsFact']
+13299    114.32
+13300    114.22
+13301    114.18
+13302    114.13
+13303    114.20
+Name: lastPrice, dtype: float64
+[-0.033]
+114.309
+===== Estimated Winning Rate: 0.983277591973
+2017-05-1106:00:00,: Prediction = ,0,===== Actual PL = ,-0.0,===== Acumulative PL = ,-0.22,=====,114.21,:,114.16
+['EG', 'RU', 'IL']
+['stress', 'governmentCorruption', 'emotionVsFact']
+13300    114.22
+13301    114.18
+13302    114.13
+13303    114.20
+13304    114.21
+Name: lastPrice, dtype: float64
+[ -1.42408183e-15]
+114.188
+===== Estimated Winning Rate: 0.986622073579
+2017-05-1107:00:00,: Prediction = ,-1,===== Actual PL = ,0.06,===== Acumulative PL = ,-0.16,=====,114.16,:,114.1
+['EG', 'RU', 'CH']
+['stress', 'governmentCorruption', 'centralBank']
+13301    114.18
+13302    114.13
+13303    114.20
+13304    114.21
+13305    114.16
+Name: lastPrice, dtype: float64
+[ 0.004]
+114.164
+===== Estimated Winning Rate: 1.0
+2017-05-1108:00:00,: Prediction = ,1,===== Actual PL = ,0.09,===== Acumulative PL = ,-0.07,=====,114.1,:,114.19
+['EG', 'RU', 'CH']
+['stress', 'governmentCorruption', 'centralBank']
+13302    114.13
+13303    114.20
+13304    114.21
+13305    114.16
+13306    114.10
+Name: lastPrice, dtype: float64
+[-0.01]
+114.19
+===== Estimated Winning Rate: 1.0
+2017-05-1109:00:00,: Prediction = ,0,===== Actual PL = ,-0.0,===== Acumulative PL = ,-0.07,=====,114.19,:,114.18
+['EG', 'RU', 'CH']
+['stress', 'governmentCorruption', 'centralBank']
+13303    114.20
+13304    114.21
+13305    114.16
+13306    114.10
+13307    114.19
+Name: lastPrice, dtype: float64
+[-0.013]
+114.211
+===== Estimated Winning Rate: 0.993311036789
+2017-05-1110:00:00,: Prediction = ,-1,===== Actual PL = ,0.02,===== Acumulative PL = ,-0.05,=====,114.18,:,114.16
+['EG', 'RU', 'CH']
+['stress', 'governmentCorruption', 'centralBank']
+13304    114.21
+13305    114.16
+13306    114.10
+13307    114.19
+13308    114.18
+Name: lastPrice, dtype: float64
+[-0.003]
+114.177
+===== Estimated Winning Rate: 0.993311036789
+2017-05-1111:00:00,: Prediction = ,-1,===== Actual PL = ,0.12,===== Acumulative PL = ,0.07,=====,114.16,:,114.04
+['EG', 'RU', 'CH']
+['stress', 'governmentCorruption', 'centralBank']
+13305    114.16
+13306    114.10
+13307    114.19
+13308    114.18
+13309    114.16
+Name: lastPrice, dtype: float64
+[ 0.008]
+114.134
+===== Estimated Winning Rate: 0.993311036789
+2017-05-1112:00:00,: Prediction = ,0,===== Actual PL = ,-0.0,===== Acumulative PL = ,0.07,=====,114.04,:,113.86
+['EG', 'RU', 'CH']
+['stress', 'governmentCorruption', 'centralBank']
+13306    114.10
+13307    114.19
+13308    114.18
+13309    114.16
+13310    114.04
+Name: lastPrice, dtype: float64
+[-0.015]
+114.179
+===== Estimated Winning Rate: 1.0
+2017-05-1113:00:00,: Prediction = ,-1,===== Actual PL = ,-0.12,===== Acumulative PL = ,-0.05,=====,113.86,:,113.98
+['RU', 'EG', 'CH']
+['governmentCorruption', 'stress', 'centralBank']
+13307    114.19
+13308    114.18
+13309    114.16
+13310    114.04
+13311    113.86
+Name: lastPrice, dtype: float64
+[-0.08]
+114.326
+===== Estimated Winning Rate: 1.0
+2017-05-1114:00:00,: Prediction = ,0,===== Actual PL = ,-0.0,===== Acumulative PL = ,-0.05,=====,113.98,:,113.74
+['RU', 'EG', 'CH']
+['governmentCorruption', 'stress', 'centralBank']
+13308    114.18
+13309    114.16
+13310    114.04
+13311    113.86
+13312    113.98
+Name: lastPrice, dtype: float64
+[-0.07]
+114.254
+===== Estimated Winning Rate: 1.0
+2017-05-1115:00:00,: Prediction = ,-1,===== Actual PL = ,0.03,===== Acumulative PL = ,-0.02,=====,113.74,:,113.71
+['RU', 'CH', 'EG']
+['governmentCorruption', 'centralBank', 'stress']
+13309    114.16
+13310    114.04
+13311    113.86
+13312    113.98
+13313    113.74
+Name: lastPrice, dtype: float64
+[-0.09]
+114.226
+===== Estimated Winning Rate: 1.0
+2017-05-1116:00:00,: Prediction = ,-1,===== Actual PL = ,-0.04,===== Acumulative PL = ,-0.06,=====,113.71,:,113.75
+['RU', 'CH', 'EG']
+['governmentCorruption', 'centralBank', 'stress']
+13310    114.04
+13311    113.86
+13312    113.98
+13313    113.74
+13314    113.71
+Name: lastPrice, dtype: float64
+[-0.078]
+114.1
+===== Estimated Winning Rate: 0.986622073579
+2017-05-1117:00:00,: Prediction = ,-1,===== Actual PL = ,-0.03,===== Acumulative PL = ,-0.09,=====,113.75,:,113.78
+['RU', 'CH', 'EG']
+['governmentCorruption', 'centralBank', 'stress']
+13311    113.86
+13312    113.98
+13313    113.74
+13314    113.71
+13315    113.75
+Name: lastPrice, dtype: float64
+[-0.049]
+113.955
+===== Estimated Winning Rate: 0.989966555184
+2017-05-1118:00:00,: Prediction = ,0,===== Actual PL = ,0.0,===== Acumulative PL = ,-0.09,=====,113.78,:,113.92
+['RU', 'CH', 'EG']
+['governmentCorruption', 'centralBank', 'stress']
+13312    113.98
+13313    113.74
+13314    113.71
+13315    113.75
+13316    113.78
+Name: lastPrice, dtype: float64
+[-0.039]
+113.909
+===== Estimated Winning Rate: 0.996655518395
+2017-05-1119:00:00,: Prediction = ,0,===== Actual PL = ,-0.0,===== Acumulative PL = ,-0.09,=====,113.92,:,113.86
+['RU', 'CH', 'EG']
+['governmentCorruption', 'centralBank', 'stress']
+13313    113.74
+13314    113.71
+13315    113.75
+13316    113.78
+13317    113.92
+Name: lastPrice, dtype: float64
+[ 0.043]
+113.651
+===== Estimated Winning Rate: 0.986622073579
+2017-05-1120:00:00,: Prediction = ,1,===== Actual PL = ,-0.02,===== Acumulative PL = ,-0.11,=====,113.86,:,113.84
+['RU', 'CH', 'EG']
+['governmentCorruption', 'centralBank', 'stress']
+13314    113.71
+13315    113.75
+13316    113.78
+13317    113.92
+13318    113.86
+Name: lastPrice, dtype: float64
+[ 0.047]
+113.663
+===== Estimated Winning Rate: 1.0
+2017-05-1121:00:00,: Prediction = ,0,===== Actual PL = ,0.0,===== Acumulative PL = ,-0.11,=====,113.84,:,113.85
+['RU', 'CH', 'EG']
+['governmentCorruption', 'centralBank', 'stress']
+13315    113.75
+13316    113.78
+13317    113.92
+13318    113.86
+13319    113.84
+Name: lastPrice, dtype: float64
+[ 0.026]
+113.752
+===== Estimated Winning Rate: 0.986622073579
+2017-05-1122:00:00,: Prediction = ,1,===== Actual PL = ,-0.06,===== Acumulative PL = ,-0.17,=====,113.85,:,113.79
+['RU', 'CH', 'EG']
+['governmentCorruption', 'centralBank', 'stress']
+13316    113.78
+13317    113.92
+13318    113.86
+13319    113.84
+13320    113.85
+Name: lastPrice, dtype: float64
+[ 0.006]
+113.832
+===== Estimated Winning Rate: 1.0
+2017-05-1123:00:00,: Prediction = ,0,===== Actual PL = ,-0.0,===== Acumulative PL = ,-0.17,=====,113.79,:,113.76
+['RU', 'CH', 'EG']
+['governmentCorruption', 'centralBank', 'stress']
+13317    113.92
+13318    113.86
+13319    113.84
+13320    113.85
+13321    113.79
+Name: lastPrice, dtype: float64
+[-0.027]
+113.933
+===== Estimated Winning Rate: 1.0
+2017-05-1200:00:00,: Prediction = ,-1,===== Actual PL = ,-0.05,===== Acumulative PL = ,-0.22,=====,113.76,:,113.81
+['RU', 'CH', 'EG']
+['governmentCorruption', 'centralBank', 'stress']
+13318    113.86
+13319    113.84
+13320    113.85
+13321    113.79
+13322    113.76
+Name: lastPrice, dtype: float64
+[-0.025]
+113.895
+===== Estimated Winning Rate: 1.0
+2017-05-1201:00:00,: Prediction = ,0,===== Actual PL = ,0.0,===== Acumulative PL = ,-0.22,=====,113.81,:,113.88
+['RU', 'CH', 'EG']
+['governmentCorruption', 'centralBank', 'stress']
+13319    113.84
+13320    113.85
+13321    113.79
+13322    113.76
+13323    113.81
+Name: lastPrice, dtype: float64
+[-0.015]
+113.855
+===== Estimated Winning Rate: 1.0
+2017-05-1202:00:00,: Prediction = ,-1,===== Actual PL = ,0.14,===== Acumulative PL = ,-0.08,=====,113.88,:,113.74
+['RU', 'CH', 'EG']
+['governmentCorruption', 'centralBank', 'stress']
+13320    113.85
+13321    113.79
+13322    113.76
+13323    113.81
+13324    113.88
+Name: lastPrice, dtype: float64
+[ 0.008]
+113.794
+===== Estimated Winning Rate: 1.0
+2017-05-1203:00:00,: Prediction = ,0,===== Actual PL = ,-0.0,===== Acumulative PL = ,-0.08,=====,113.74,:,113.65
+['RU', 'CH', 'EG']
+['governmentCorruption', 'centralBank', 'stress']
+13321    113.79
+13322    113.76
+13323    113.81
+13324    113.88
+13325    113.74
+Name: lastPrice, dtype: float64
+[ 0.002]
+113.79
+===== Estimated Winning Rate: 1.0
+2017-05-1204:00:00,: Prediction = ,0,===== Actual PL = ,0.0,===== Acumulative PL = ,-0.08,=====,113.65,:,113.68
+['RU', 'CH', 'EG']
+['governmentCorruption', 'centralBank', 'stress']
+13322    113.76
+13323    113.81
+13324    113.88
+13325    113.74
+13326    113.65
+Name: lastPrice, dtype: float64
+[-0.029]
+113.855
+===== Estimated Winning Rate: 1.0
+2017-05-1205:00:00,: Prediction = ,-1,===== Actual PL = ,0.01,===== Acumulative PL = ,-0.07,=====,113.68,:,113.67
+['RU', 'CH', 'EG']
+['governmentCorruption', 'centralBank', 'stress']
+13323    113.81
+13324    113.88
+13325    113.74
+13326    113.65
+13327    113.68
+Name: lastPrice, dtype: float64
+[-0.049]
+113.899
+===== Estimated Winning Rate: 1.0
+2017-05-1206:00:00,: Prediction = ,-1,===== Actual PL = ,-0.09,===== Acumulative PL = ,-0.16,=====,113.67,:,113.76
+['RU', 'CH', 'JP']
+['governmentCorruption', 'centralBank', 'creditEasyVsTight']
+13324    113.88
+13325    113.74
+13326    113.65
+13327    113.68
+13328    113.67
+Name: lastPrice, dtype: float64
+[-0.048]
+113.868
+===== Estimated Winning Rate: 1.0
+2017-05-1207:00:00,: Prediction = ,0,===== Actual PL = ,-0.0,===== Acumulative PL = ,-0.16,=====,113.76,:,113.75
+['RU', 'CH', 'JP']
+['governmentCorruption', 'centralBank', 'creditEasyVsTight']
+13325    113.74
+13326    113.65
+13327    113.68
+13328    113.67
+13329    113.76
+Name: lastPrice, dtype: float64
+[ 0.006]
+113.682
+===== Estimated Winning Rate: 1.0
+2017-05-1208:00:00,: Prediction = ,1,===== Actual PL = ,-0.15,===== Acumulative PL = ,-0.31,=====,113.75,:,113.6
+['RU', 'CH', 'JP']
+['governmentCorruption', 'centralBank', 'creditEasyVsTight']
+13326    113.65
+13327    113.68
+13328    113.67
+13329    113.76
+13330    113.75
+Name: lastPrice, dtype: float64
+[ 0.028]
+113.618
+===== Estimated Winning Rate: 1.0
+2017-05-1209:00:00,: Prediction = ,1,===== Actual PL = ,0.02,===== Acumulative PL = ,-0.29,=====,113.6,:,113.62
+['RU', 'CH', 'JP']
+['governmentCorruption', 'centralBank', 'creditEasyVsTight']
+13327    113.68
+13328    113.67
+13329    113.76
+13330    113.75
+13331    113.60
+Name: lastPrice, dtype: float64
+[-0.008]
+113.716
+===== Estimated Winning Rate: 1.0
+2017-05-1210:00:00,: Prediction = ,0,===== Actual PL = ,0.0,===== Acumulative PL = ,-0.29,=====,113.62,:,113.66
+['RU', 'CH', 'JP']
+['governmentCorruption', 'centralBank', 'creditEasyVsTight']
+13328    113.67
+13329    113.76
+13330    113.75
+13331    113.60
+13332    113.62
+Name: lastPrice, dtype: float64
+[-0.026]
+113.758
+===== Estimated Winning Rate: 1.0
+2017-05-1211:00:00,: Prediction = ,0,===== Actual PL = ,0.0,===== Acumulative PL = ,-0.29,=====,113.66,:,113.78
+['RU', 'CH', 'JP']
+['governmentCorruption', 'centralBank', 'creditEasyVsTight']
+13329    113.76
+13330    113.75
+13331    113.60
+13332    113.62
+13333    113.66
+Name: lastPrice, dtype: float64
+[-0.033]
+113.777
+===== Estimated Winning Rate: 1.0
+2017-05-1212:00:00,: Prediction = ,-1,===== Actual PL = ,-0.06,===== Acumulative PL = ,-0.35,=====,113.78,:,113.84
+['RU', 'CH', 'JP']
+['governmentCorruption', 'centralBank', 'creditEasyVsTight']
+13330    113.75
+13331    113.60
+13332    113.62
+13333    113.66
+13334    113.78
+Name: lastPrice, dtype: float64
+[ 0.012]
+113.646
+===== Estimated Winning Rate: 1.0
+2017-05-1213:00:00,: Prediction = ,0,===== Actual PL = ,-0.0,===== Acumulative PL = ,-0.35,=====,113.84,:,113.34
+['RU', 'CH', 'JP']
+['governmentCorruption', 'centralBank', 'creditEasyVsTight']
+13331    113.60
+13332    113.62
+13333    113.66
+13334    113.78
+13335    113.84
+Name: lastPrice, dtype: float64
+[ 0.064]
+113.508
+===== Estimated Winning Rate: 1.0
+2017-05-1214:00:00,: Prediction = ,0,===== Actual PL = ,0.0,===== Acumulative PL = ,-0.35,=====,113.34,:,113.39
+['RU', 'CH', 'JP']
+['governmentCorruption', 'centralBank', 'creditEasyVsTight']
+13332    113.62
+13333    113.66
+13334    113.78
+13335    113.84
+13336    113.34
+Name: lastPrice, dtype: float64
+[-0.038]
+113.762
+===== Estimated Winning Rate: 1.0
+2017-05-1215:00:00,: Prediction = ,-1,===== Actual PL = ,0.15,===== Acumulative PL = ,-0.2,=====,113.39,:,113.24
+['RU', 'CH', 'JP']
+['governmentCorruption', 'centralBank', 'creditEasyVsTight']
+13333    113.66
+13334    113.78
+13335    113.84
+13336    113.34
+13337    113.39
+Name: lastPrice, dtype: float64
+[-0.098]
+113.896
+===== Estimated Winning Rate: 1.0
+2017-05-1216:00:00,: Prediction = ,0,===== Actual PL = ,0.0,===== Acumulative PL = ,-0.2,=====,113.24,:,113.28
+['RU', 'CH', 'CH']
+['governmentCorruption', 'centralBank', 'businessExpansion']
+13334    113.78
+13335    113.84
+13336    113.34
+13337    113.39
+13338    113.24
+Name: lastPrice, dtype: float64
+[-0.153]
+113.977
+===== Estimated Winning Rate: 0.989966555184
+2017-05-1217:00:00,: Prediction = ,-1,===== Actual PL = ,-0.12,===== Acumulative PL = ,-0.32,=====,113.28,:,113.4
+['RU', 'CH', 'CH']
+['governmentCorruption', 'centralBank', 'businessExpansion']
+13335    113.84
+13336    113.34
+13337    113.39
+13338    113.24
+13339    113.28
+Name: lastPrice, dtype: float64
+[-0.122]
+113.784
+===== Estimated Winning Rate: 0.989966555184
+2017-05-1218:00:00,: Prediction = ,-1,===== Actual PL = ,0.05,===== Acumulative PL = ,-0.27,=====,113.4,:,113.35
+['RU', 'CH', 'JP']
+['governmentCorruption', 'centralBank', 'creditEasyVsTight']
+13336    113.34
+13337    113.39
+13338    113.24
+13339    113.28
+13340    113.40
+Name: lastPrice, dtype: float64
+[ 0.001]
+113.327
+===== Estimated Winning Rate: 1.0
+2017-05-1219:00:00,: Prediction = ,0,===== Actual PL = ,0.0,===== Acumulative PL = ,-0.27,=====,113.35,:,113.41
+['RU', 'CH', 'JP']
+['governmentCorruption', 'centralBank', 'creditEasyVsTight']
+13337    113.39
+13338    113.24
+13339    113.28
+13340    113.40
+13341    113.35
+Name: lastPrice, dtype: float64
+[ 0.008]
+113.308
+===== Estimated Winning Rate: 1.0
+2017-05-1220:00:00,: Prediction = ,1,===== Actual PL = ,-0.12,===== Acumulative PL = ,-0.39,=====,113.41,:,113.29
+['RU', 'CH', 'JP']
+['governmentCorruption', 'centralBank', 'creditEasyVsTight']
+13338    113.24
+13339    113.28
+13340    113.40
+13341    113.35
+13342    113.41
+Name: lastPrice, dtype: float64
+[ 0.041]
+113.213
+===== Estimated Winning Rate: 1.0
+2017-05-1221:00:00,: Prediction = ,0,===== Actual PL = ,0.0,===== Acumulative PL = ,-0.39,=====,113.29,:,113.33
+['RU', 'CH', 'JP']
+['governmentCorruption', 'centralBank', 'creditEasyVsTight']
+13339    113.28
+13340    113.40
+13341    113.35
+13342    113.41
+13343    113.29
+Name: lastPrice, dtype: float64
+[ 0.003]
+113.337
+===== Estimated Winning Rate: 1.0
+2017-05-1222:00:00,: Prediction = ,0,===== Actual PL = ,0.0,===== Acumulative PL = ,-0.39,=====,113.33,:,113.33
+['RU', 'CH', 'JP']
+['governmentCorruption', 'centralBank', 'creditEasyVsTight']
+13340    113.40
+13341    113.35
+13342    113.41
+13343    113.29
+13344    113.33
+Name: lastPrice, dtype: float64
+[-0.02]
+113.416
+===== Estimated Winning Rate: 1.0
+2017-05-1223:00:00,: Prediction = ,-1,===== Actual PL = ,-0.0,===== Acumulative PL = ,-0.39,=====,113.33,:,113.33
+['RU', 'CH', 'JP']
+['governmentCorruption', 'centralBank', 'creditEasyVsTight']
+13341    113.35
+13342    113.41
+13343    113.29
+13344    113.33
+13345    113.33
+Name: lastPrice, dtype: float64
+[-0.012]
+113.378
+===== Estimated Winning Rate: 1.0
+2017-05-1300:00:00,: Prediction = ,0,===== Actual PL = ,0.0,===== Acumulative PL = ,-0.39,=====,113.33,:,113.33
+['RU', 'CH', 'JP']
+['governmentCorruption', 'centralBank', 'creditEasyVsTight']
+13342    113.41
+13343    113.29
+13344    113.33
+13345    113.33
+13346    113.33
+Name: lastPrice, dtype: float64
+[-0.012]
+113.374
+===== Estimated Winning Rate: 1.0
+2017-05-1301:00:00,: Prediction = ,0,===== Actual PL = ,0.0,===== Acumulative PL = ,-0.39,=====,113.33,:,113.33
+['RU', 'CH', 'JP']
+['governmentCorruption', 'centralBank', 'creditEasyVsTight']
+13343    113.29
+13344    113.33
+13345    113.33
+13346    113.33
+13347    113.33
+Name: lastPrice, dtype: float64
+[ 0.008]
+113.298
+===== Estimated Winning Rate: 1.0
+2017-05-1302:00:00,: Prediction = ,0,===== Actual PL = ,0.0,===== Acumulative PL = ,-0.39,=====,113.33,:,113.33
+['RU', 'CH', 'JP']
+['governmentCorruption', 'centralBank', 'creditEasyVsTight']
+13344    113.33
+13345    113.33
+13346    113.33
+13347    113.33
+13348    113.33
+Name: lastPrice, dtype: float64
+[ 0.]
+113.33
+===== Estimated Winning Rate: 1.0
+2017-05-1303:00:00,: Prediction = ,0,===== Actual PL = ,0.0,===== Acumulative PL = ,-0.39,=====,113.33,:,113.33
+['RU', 'CH', 'JP']
+['governmentCorruption', 'centralBank', 'creditEasyVsTight']
+13345    113.33
+13346    113.33
+13347    113.33
+13348    113.33
+13349    113.33
+Name: lastPrice, dtype: float64
+[ 0.]
+113.33
+===== Estimated Winning Rate: 1.0
+2017-05-1304:00:00,: Prediction = ,0,===== Actual PL = ,0.0,===== Acumulative PL = ,-0.39,=====,113.33,:,113.33
+['RU', 'CH', 'JP']
+['governmentCorruption', 'centralBank', 'creditEasyVsTight']
+13346    113.33
+13347    113.33
+13348    113.33
+13349    113.33
+13350    113.33
+Name: lastPrice, dtype: float64
+[ 0.]
+113.33
+===== Estimated Winning Rate: 1.0
+2017-05-1305:00:00,: Prediction = ,0,===== Actual PL = ,0.0,===== Acumulative PL = ,-0.39,=====,113.33,:,113.33
+['RU', 'CH', 'JP']
+['governmentCorruption', 'centralBank', 'creditEasyVsTight']
+13347    113.33
+13348    113.33
+13349    113.33
+13350    113.33
+13351    113.33
+Name: lastPrice, dtype: float64
+[ 0.]
+113.33
+===== Estimated Winning Rate: 1.0
+2017-05-1306:00:00,: Prediction = ,0,===== Actual PL = ,0.0,===== Acumulative PL = ,-0.39,=====,113.33,:,113.33
+['RU', 'CH', 'JP']
+['governmentCorruption', 'centralBank', 'creditEasyVsTight']
+13348    113.33
+13349    113.33
+13350    113.33
+13351    113.33
+13352    113.33
+Name: lastPrice, dtype: float64
+[ 0.]
+113.33
+===== Estimated Winning Rate: 1.0
+2017-05-1307:00:00,: Prediction = ,0,===== Actual PL = ,0.0,===== Acumulative PL = ,-0.39,=====,113.33,:,113.33
+['RU', 'CH', 'JP']
+['governmentCorruption', 'centralBank', 'creditEasyVsTight']
+13349    113.33
+13350    113.33
+13351    113.33
+13352    113.33
+13353    113.33
+Name: lastPrice, dtype: float64
+[ 0.]
+113.33
+===== Estimated Winning Rate: 1.0
+2017-05-1308:00:00,: Prediction = ,0,===== Actual PL = ,0.0,===== Acumulative PL = ,-0.39,=====,113.33,:,113.33
+['RU', 'CH', 'JP']
+['governmentCorruption', 'centralBank', 'creditEasyVsTight']
+13350    113.33
+13351    113.33
+13352    113.33
+13353    113.33
+13354    113.33
+Name: lastPrice, dtype: float64
+[ 0.]
+113.33
+===== Estimated Winning Rate: 0.993311036789
+2017-05-1309:00:00,: Prediction = ,0,===== Actual PL = ,0.0,===== Acumulative PL = ,-0.39,=====,113.33,:,113.33
+['RU', 'CH', 'JP']
+['governmentCorruption', 'centralBank', 'creditEasyVsTight']
+13351    113.33
+13352    113.33
+13353    113.33
+13354    113.33
+13355    113.33
+Name: lastPrice, dtype: float64
+[ 0.]
+113.33
+===== Estimated Winning Rate: 0.993311036789
+2017-05-1310:00:00,: Prediction = ,0,===== Actual PL = ,0.0,===== Acumulative PL = ,-0.39,=====,113.33,:,113.33
+['RU', 'CH', 'JP']
+['governmentCorruption', 'centralBank', 'creditEasyVsTight']
+13352    113.33
+13353    113.33
+13354    113.33
+13355    113.33
+13356    113.33
+Name: lastPrice, dtype: float64
+[ 0.]
+113.33
+===== Estimated Winning Rate: 0.993311036789
+2017-05-1311:00:00,: Prediction = ,0,===== Actual PL = ,0.0,===== Acumulative PL = ,-0.39,=====,113.33,:,113.33
+['RU', 'CH', 'JP']
+['governmentCorruption', 'centralBank', 'creditEasyVsTight']
+13353    113.33
+13354    113.33
+13355    113.33
+13356    113.33
+13357    113.33
+Name: lastPrice, dtype: float64
+[ 0.]
+113.33
+===== Estimated Winning Rate: 0.996655518395
+2017-05-1312:00:00,: Prediction = ,0,===== Actual PL = ,0.0,===== Acumulative PL = ,-0.39,=====,113.33,:,113.33
+['RU', 'CH', 'JP']
+['governmentCorruption', 'centralBank', 'creditEasyVsTight']
+13354    113.33
+13355    113.33
+13356    113.33
+13357    113.33
+13358    113.33
+Name: lastPrice, dtype: float64
+[ 0.]
+113.33
+===== Estimated Winning Rate: 0.996655518395
+2017-05-1313:00:00,: Prediction = ,0,===== Actual PL = ,0.0,===== Acumulative PL = ,-0.39,=====,113.33,:,113.33
+['RU', 'CH', 'JP']
+['governmentCorruption', 'centralBank', 'creditEasyVsTight']
+13355    113.33
+13356    113.33
+13357    113.33
+13358    113.33
+13359    113.33
+Name: lastPrice, dtype: float64
+[ 0.]
+113.33
+===== Estimated Winning Rate: 0.996655518395
+2017-05-1314:00:00,: Prediction = ,0,===== Actual PL = ,0.0,===== Acumulative PL = ,-0.39,=====,113.33,:,113.33
+['RU', 'CH', 'JP']
+['governmentCorruption', 'centralBank', 'creditEasyVsTight']
+13356    113.33
+13357    113.33
+13358    113.33
+13359    113.33
+13360    113.33
+Name: lastPrice, dtype: float64
+[ 0.]
+113.33
+===== Estimated Winning Rate: 1.0
+2017-05-1315:00:00,: Prediction = ,0,===== Actual PL = ,0.0,===== Acumulative PL = ,-0.39,=====,113.33,:,113.33
+['RU', 'CH', 'JP']
+['governmentCorruption', 'centralBank', 'creditEasyVsTight']
+13357    113.33
+13358    113.33
+13359    113.33
+13360    113.33
+13361    113.33
+Name: lastPrice, dtype: float64
+[ 0.]
+113.33
+===== Estimated Winning Rate: 0.993311036789
+2017-05-1316:00:00,: Prediction = ,0,===== Actual PL = ,0.0,===== Acumulative PL = ,-0.39,=====,113.33,:,113.33
+['RU', 'CH', 'JP']
+['governmentCorruption', 'centralBank', 'creditEasyVsTight']
+13358    113.33
+13359    113.33
+13360    113.33
+13361    113.33
+13362    113.33
+Name: lastPrice, dtype: float64
+[ 0.]
+113.33
+===== Estimated Winning Rate: 0.996655518395
+2017-05-1317:00:00,: Prediction = ,0,===== Actual PL = ,0.0,===== Acumulative PL = ,-0.39,=====,113.33,:,113.33
+['RU', 'CH', 'JP']
+['governmentCorruption', 'centralBank', 'creditEasyVsTight']
+13359    113.33
+13360    113.33
+13361    113.33
+13362    113.33
+13363    113.33
+Name: lastPrice, dtype: float64
+[ 0.]
+113.33
+===== Estimated Winning Rate: 1.0
+2017-05-1318:00:00,: Prediction = ,0,===== Actual PL = ,0.0,===== Acumulative PL = ,-0.39,=====,113.33,:,113.33
+['RU', 'CH', 'JP']
+['governmentCorruption', 'centralBank', 'creditEasyVsTight']
+13360    113.33
+13361    113.33
+13362    113.33
+13363    113.33
+13364    113.33
+Name: lastPrice, dtype: float64
+[ 0.]
+113.33
+===== Estimated Winning Rate: 1.0
+2017-05-1319:00:00,: Prediction = ,0,===== Actual PL = ,0.0,===== Acumulative PL = ,-0.39,=====,113.33,:,113.33
+['RU', 'CH', 'JP']
+['governmentCorruption', 'centralBank', 'creditEasyVsTight']
+13361    113.33
+13362    113.33
+13363    113.33
+13364    113.33
+13365    113.33
+Name: lastPrice, dtype: float64
+[ 0.]
+113.33
+===== Estimated Winning Rate: 1.0
+2017-05-1320:00:00,: Prediction = ,0,===== Actual PL = ,0.0,===== Acumulative PL = ,-0.39,=====,113.33,:,113.33
+['RU', 'CH', 'JP']
+['governmentCorruption', 'centralBank', 'creditEasyVsTight']
+13362    113.33
+13363    113.33
+13364    113.33
+13365    113.33
+13366    113.33
+Name: lastPrice, dtype: float64
+[ 0.]
+113.33
+===== Estimated Winning Rate: 1.0
+2017-05-1321:00:00,: Prediction = ,0,===== Actual PL = ,0.0,===== Acumulative PL = ,-0.39,=====,113.33,:,113.33
+['RU', 'CH', 'JP']
+['governmentCorruption', 'centralBank', 'creditEasyVsTight']
+13363    113.33
+13364    113.33
+13365    113.33
+13366    113.33
+13367    113.33
+Name: lastPrice, dtype: float64
+[ 0.]
+113.33
+===== Estimated Winning Rate: 0.996655518395
+2017-05-1322:00:00,: Prediction = ,0,===== Actual PL = ,0.0,===== Acumulative PL = ,-0.39,=====,113.33,:,113.33
+['RU', 'CH', 'JP']
+['governmentCorruption', 'centralBank', 'creditEasyVsTight']
+13364    113.33
+13365    113.33
+13366    113.33
+13367    113.33
+13368    113.33
+Name: lastPrice, dtype: float64
+[ 0.]
+113.33
+===== Estimated Winning Rate: 0.996655518395
+2017-05-1323:00:00,: Prediction = ,0,===== Actual PL = ,0.0,===== Acumulative PL = ,-0.39,=====,113.33,:,113.33
+['RU', 'CH', 'JP']
+['governmentCorruption', 'centralBank', 'creditEasyVsTight']
+13365    113.33
+13366    113.33
+13367    113.33
+13368    113.33
+13369    113.33
+Name: lastPrice, dtype: float64
+[ 0.]
+113.33
+===== Estimated Winning Rate: 1.0
+2017-05-1400:00:00,: Prediction = ,0,===== Actual PL = ,0.0,===== Acumulative PL = ,-0.39,=====,113.33,:,113.33
+['RU', 'CH', 'JP']
+['governmentCorruption', 'centralBank', 'creditEasyVsTight']
+13366    113.33
+13367    113.33
+13368    113.33
+13369    113.33
+13370    113.33
+Name: lastPrice, dtype: float64
+[ 0.]
+113.33
+===== Estimated Winning Rate: 1.0
+2017-05-1401:00:00,: Prediction = ,0,===== Actual PL = ,0.0,===== Acumulative PL = ,-0.39,=====,113.33,:,113.33
+['RU', 'CH', 'IL']
+['governmentCorruption', 'centralBank', 'naturalDisasters']
+13367    113.33
+13368    113.33
+13369    113.33
+13370    113.33
+13371    113.33
+Name: lastPrice, dtype: float64
+[ 0.]
+113.33
+===== Estimated Winning Rate: 1.0
+2017-05-1402:00:00,: Prediction = ,0,===== Actual PL = ,0.0,===== Acumulative PL = ,-0.39,=====,113.33,:,113.33
+['RU', 'CH', 'IL']
+['governmentCorruption', 'centralBank', 'naturalDisasters']
+13368    113.33
+13369    113.33
+13370    113.33
+13371    113.33
+13372    113.33
+Name: lastPrice, dtype: float64
+[ 0.]
+113.33
+===== Estimated Winning Rate: 1.0
+2017-05-1403:00:00,: Prediction = ,0,===== Actual PL = ,0.0,===== Acumulative PL = ,-0.39,=====,113.33,:,113.33
+['RU', 'CH', 'IL']
+['governmentCorruption', 'centralBank', 'naturalDisasters']
+13369    113.33
+13370    113.33
+13371    113.33
+13372    113.33
+13373    113.33
+Name: lastPrice, dtype: float64
+[ 0.]
+113.33
+===== Estimated Winning Rate: 0.996655518395
+2017-05-1404:00:00,: Prediction = ,0,===== Actual PL = ,0.0,===== Acumulative PL = ,-0.39,=====,113.33,:,113.33
+['RU', 'CH', 'IL']
+['governmentCorruption', 'centralBank', 'naturalDisasters']
+13370    113.33
+13371    113.33
+13372    113.33
+13373    113.33
+13374    113.33
+Name: lastPrice, dtype: float64
+[ 0.]
+113.33
+===== Estimated Winning Rate: 0.996655518395
+2017-05-1405:00:00,: Prediction = ,0,===== Actual PL = ,0.0,===== Acumulative PL = ,-0.39,=====,113.33,:,113.33
+['RU', 'CH', 'IL']
+['governmentCorruption', 'centralBank', 'naturalDisasters']
+13371    113.33
+13372    113.33
+13373    113.33
+13374    113.33
+13375    113.33
+Name: lastPrice, dtype: float64
+[ 0.]
+113.33
+===== Estimated Winning Rate: 0.993311036789
+2017-05-1406:00:00,: Prediction = ,0,===== Actual PL = ,0.0,===== Acumulative PL = ,-0.39,=====,113.33,:,113.33
+['RU', 'CH', 'IL']
+['governmentCorruption', 'centralBank', 'naturalDisasters']
+13372    113.33
+13373    113.33
+13374    113.33
+13375    113.33
+13376    113.33
+Name: lastPrice, dtype: float64
+[ 0.]
+113.33
+===== Estimated Winning Rate: 1.0
+2017-05-1407:00:00,: Prediction = ,0,===== Actual PL = ,0.0,===== Acumulative PL = ,-0.39,=====,113.33,:,113.33
+['RU', 'CH', 'IL']
+['governmentCorruption', 'centralBank', 'naturalDisasters']
+13373    113.33
+13374    113.33
+13375    113.33
+13376    113.33
+13377    113.33
+Name: lastPrice, dtype: float64
+[ 0.]
+113.33
+===== Estimated Winning Rate: 0.993311036789
+2017-05-1408:00:00,: Prediction = ,0,===== Actual PL = ,0.0,===== Acumulative PL = ,-0.39,=====,113.33,:,113.33
+['RU', 'CH', 'IL']
+['governmentCorruption', 'centralBank', 'naturalDisasters']
+13374    113.33
+13375    113.33
+13376    113.33
+13377    113.33
+13378    113.33
+Name: lastPrice, dtype: float64
+[ 0.]
+113.33
+===== Estimated Winning Rate: 0.993311036789
+2017-05-1409:00:00,: Prediction = ,0,===== Actual PL = ,0.0,===== Acumulative PL = ,-0.39,=====,113.33,:,113.33
+['RU', 'CH', 'IL']
+['governmentCorruption', 'centralBank', 'naturalDisasters']
+13375    113.33
+13376    113.33
+13377    113.33
+13378    113.33
+13379    113.33
+Name: lastPrice, dtype: float64
+[ 0.]
+113.33
+===== Estimated Winning Rate: 0.993311036789
+2017-05-1410:00:00,: Prediction = ,0,===== Actual PL = ,0.0,===== Acumulative PL = ,-0.39,=====,113.33,:,113.33
+['RU', 'CH', 'IL']
+['governmentCorruption', 'centralBank', 'naturalDisasters']
+13376    113.33
+13377    113.33
+13378    113.33
+13379    113.33
+13380    113.33
+Name: lastPrice, dtype: float64
+[ 0.]
+113.33
+===== Estimated Winning Rate: 0.993311036789
+2017-05-1411:00:00,: Prediction = ,0,===== Actual PL = ,0.0,===== Acumulative PL = ,-0.39,=====,113.33,:,113.33
+['RU', 'CH', 'IL']
+['governmentCorruption', 'centralBank', 'naturalDisasters']
+13377    113.33
+13378    113.33
+13379    113.33
+13380    113.33
+13381    113.33
+Name: lastPrice, dtype: float64
+[ 0.]
+113.33
+===== Estimated Winning Rate: 0.993311036789
+2017-05-1412:00:00,: Prediction = ,0,===== Actual PL = ,0.0,===== Acumulative PL = ,-0.39,=====,113.33,:,113.33
+['RU', 'CH', 'IL']
+['governmentCorruption', 'centralBank', 'naturalDisasters']
+13378    113.33
+13379    113.33
+13380    113.33
+13381    113.33
+13382    113.33
+Name: lastPrice, dtype: float64
+[ 0.]
+113.33
+===== Estimated Winning Rate: 0.993311036789
+2017-05-1413:00:00,: Prediction = ,0,===== Actual PL = ,0.0,===== Acumulative PL = ,-0.39,=====,113.33,:,113.33
+['RU', 'CH', 'IL']
+['governmentCorruption', 'centralBank', 'naturalDisasters']
+13379    113.33
+13380    113.33
+13381    113.33
+13382    113.33
+13383    113.33
+Name: lastPrice, dtype: float64
+[ 0.]
+113.33
+===== Estimated Winning Rate: 0.993311036789
+2017-05-1414:00:00,: Prediction = ,0,===== Actual PL = ,0.0,===== Acumulative PL = ,-0.39,=====,113.33,:,113.33
+['RU', 'CH', 'IL']
+['governmentCorruption', 'centralBank', 'naturalDisasters']
+13380    113.33
+13381    113.33
+13382    113.33
+13383    113.33
+13384    113.33
+Name: lastPrice, dtype: float64
+[ 0.]
+113.33
+===== Estimated Winning Rate: 0.993311036789
+2017-05-1415:00:00,: Prediction = ,0,===== Actual PL = ,0.0,===== Acumulative PL = ,-0.39,=====,113.33,:,113.33
+['RU', 'CH', 'IL']
+['governmentCorruption', 'centralBank', 'naturalDisasters']
+13381    113.33
+13382    113.33
+13383    113.33
+13384    113.33
+13385    113.33
+Name: lastPrice, dtype: float64
+[ 0.]
+113.33
+===== Estimated Winning Rate: 0.993311036789
+2017-05-1416:00:00,: Prediction = ,0,===== Actual PL = ,0.0,===== Acumulative PL = ,-0.39,=====,113.33,:,113.33
+['RU', 'CH', 'ZA']
+['governmentCorruption', 'centralBank', 'socialUnrest']
+13382    113.33
+13383    113.33
+13384    113.33
+13385    113.33
+13386    113.33
+Name: lastPrice, dtype: float64
+[ 0.]
+113.33
+===== Estimated Winning Rate: 1.0
+2017-05-1417:00:00,: Prediction = ,0,===== Actual PL = ,0.0,===== Acumulative PL = ,-0.39,=====,113.33,:,113.33
+['RU', 'CH', 'ZA']
+['governmentCorruption', 'centralBank', 'socialUnrest']
+13383    113.33
+13384    113.33
+13385    113.33
+13386    113.33
+13387    113.33
+Name: lastPrice, dtype: float64
+[ 0.]
+113.33
+===== Estimated Winning Rate: 1.0
+2017-05-1418:00:00,: Prediction = ,0,===== Actual PL = ,0.0,===== Acumulative PL = ,-0.39,=====,113.33,:,113.33
+['RU', 'CH', 'ZA']
+['governmentCorruption', 'centralBank', 'socialUnrest']
+13384    113.33
+13385    113.33
+13386    113.33
+13387    113.33
+13388    113.33
+Name: lastPrice, dtype: float64
+[ 0.]
+113.33
+===== Estimated Winning Rate: 1.0
+2017-05-1419:00:00,: Prediction = ,0,===== Actual PL = ,-0.0,===== Acumulative PL = ,-0.39,=====,113.33,:,113.16
+['RU', 'CH', 'ZA']
+['governmentCorruption', 'centralBank', 'socialUnrest']
+13385    113.33
+13386    113.33
+13387    113.33
+13388    113.33
+13389    113.33
+Name: lastPrice, dtype: float64
+[ 0.]
+113.33
+===== Estimated Winning Rate: 0.996655518395
+2017-05-1420:00:00,: Prediction = ,0,===== Actual PL = ,0.0,===== Acumulative PL = ,-0.39,=====,113.16,:,113.17
+['RU', 'ZA', 'CH']
+['governmentCorruption', 'socialUnrest', 'centralBank']
+13386    113.33
+13387    113.33
+13388    113.33
+13389    113.33
+13390    113.16
+Name: lastPrice, dtype: float64
+[-0.034]
+113.398
+===== Estimated Winning Rate: 1.0
+2017-05-1421:00:00,: Prediction = ,0,===== Actual PL = ,-0.0,===== Acumulative PL = ,-0.39,=====,113.17,:,113.12
+['RU', 'ZA', 'CH']
+['governmentCorruption', 'socialUnrest', 'centralBank']
+13387    113.33
+13388    113.33
+13389    113.33
+13390    113.16
+13391    113.17
+Name: lastPrice, dtype: float64
+[-0.049]
+113.411
+===== Estimated Winning Rate: 1.0
+2017-05-1422:00:00,: Prediction = ,0,===== Actual PL = ,0.0,===== Acumulative PL = ,-0.39,=====,113.12,:,113.22
+['RU', 'ZA', 'CH']
+['governmentCorruption', 'socialUnrest', 'centralBank']
+13388    113.33
+13389    113.33
+13390    113.16
+13391    113.17
+13392    113.12
+Name: lastPrice, dtype: float64
+[-0.058]
+113.396
+===== Estimated Winning Rate: 1.0
+2017-05-1423:00:00,: Prediction = ,-1,===== Actual PL = ,-0.08,===== Acumulative PL = ,-0.47,=====,113.22,:,113.3
+['RU', 'ZA', 'CH']
+['governmentCorruption', 'socialUnrest', 'centralBank']
+13389    113.33
+13390    113.16
+13391    113.17
+13392    113.12
+13393    113.22
+Name: lastPrice, dtype: float64
+[-0.026]
+113.278
+===== Estimated Winning Rate: 1.0
+2017-05-1500:00:00,: Prediction = ,0,===== Actual PL = ,-0.0,===== Acumulative PL = ,-0.47,=====,113.3,:,113.25
+['RU', 'ZA', 'CH']
+['governmentCorruption', 'socialUnrest', 'centralBank']
+13390    113.16
+13391    113.17
+13392    113.12
+13393    113.22
+13394    113.30
+Name: lastPrice, dtype: float64
+[ 0.033]
+113.095
+===== Estimated Winning Rate: 1.0
+2017-05-1501:00:00,: Prediction = ,1,===== Actual PL = ,0.13,===== Acumulative PL = ,-0.34,=====,113.25,:,113.38
+['RU', 'ZA', 'IL']
+['governmentCorruption', 'socialUnrest', 'naturalDisasters']
+13391    113.17
+13392    113.12
+13393    113.22
+13394    113.30
+13395    113.25
+Name: lastPrice, dtype: float64
+[ 0.034]
+113.11
+===== Estimated Winning Rate: 1.0
+2017-05-1502:00:00,: Prediction = ,1,===== Actual PL = ,-0.03,===== Acumulative PL = ,-0.37,=====,113.38,:,113.35
+['RU', 'ZA', 'IL']
+['governmentCorruption', 'socialUnrest', 'naturalDisasters']
+13392    113.12
+13393    113.22
+13394    113.30
+13395    113.25
+13396    113.38
+Name: lastPrice, dtype: float64
+[ 0.055]
+113.089
+===== Estimated Winning Rate: 1.0
+2017-05-1503:00:00,: Prediction = ,1,===== Actual PL = ,0.02,===== Acumulative PL = ,-0.35,=====,113.35,:,113.37
+['RU', 'ZA', 'IL']
+['governmentCorruption', 'socialUnrest', 'naturalDisasters']
+13393    113.22
+13394    113.30
+13395    113.25
+13396    113.38
+13397    113.35
+Name: lastPrice, dtype: float64
+[ 0.034]
+113.198
+===== Estimated Winning Rate: 0.996655518395
+2017-05-1504:00:00,: Prediction = ,0,===== Actual PL = ,0.0,===== Acumulative PL = ,-0.35,=====,113.37,:,113.38
+['RU', 'ZA', 'IL']
+['governmentCorruption', 'socialUnrest', 'naturalDisasters']
+13394    113.30
+13395    113.25
+13396    113.38
+13397    113.35
+13398    113.37
+Name: lastPrice, dtype: float64
+[ 0.024]
+113.258
+===== Estimated Winning Rate: 1.0
+2017-05-1505:00:00,: Prediction = ,1,===== Actual PL = ,-0.04,===== Acumulative PL = ,-0.39,=====,113.38,:,113.34
+['RU', 'ZA', 'IL']
+['governmentCorruption', 'socialUnrest', 'naturalDisasters']
+13395    113.25
+13396    113.38
+13397    113.35
+13398    113.37
+13399    113.38
+Name: lastPrice, dtype: float64
+[ 0.025]
+113.271
+===== Estimated Winning Rate: 1.0
+2017-05-1506:00:00,: Prediction = ,0,===== Actual PL = ,0.0,===== Acumulative PL = ,-0.39,=====,113.34,:,113.36
+['RU', 'ZA', 'IL']
+['governmentCorruption', 'socialUnrest', 'naturalDisasters']
+13396    113.38
+13397    113.35
+13398    113.37
+13399    113.38
+13400    113.34
+Name: lastPrice, dtype: float64
+[-0.005]
+113.379
+===== Estimated Winning Rate: 0.989966555184
+2017-05-1507:00:00,: Prediction = ,0,===== Actual PL = ,0.0,===== Acumulative PL = ,-0.39,=====,113.36,:,113.62
+['RU', 'ZA', 'IL']
+['governmentCorruption', 'socialUnrest', 'naturalDisasters']
+13397    113.35
+13398    113.37
+13399    113.38
+13400    113.34
+13401    113.36
+Name: lastPrice, dtype: float64
+[-0.001]
+113.363
+===== Estimated Winning Rate: 1.0
+2017-05-1508:00:00,: Prediction = ,-1,===== Actual PL = ,-0.02,===== Acumulative PL = ,-0.41,=====,113.62,:,113.64
+['RU', 'ZA', 'IL']
+['governmentCorruption', 'socialUnrest', 'naturalDisasters']
+13398    113.37
+13399    113.38
+13400    113.34
+13401    113.36
+13402    113.62
+Name: lastPrice, dtype: float64
+[ 0.048]
+113.27
+===== Estimated Winning Rate: 1.0
+2017-05-1509:00:00,: Prediction = ,1,===== Actual PL = ,-0.09,===== Acumulative PL = ,-0.5,=====,113.64,:,113.55
+['RU', 'ZA', 'IL']
+['governmentCorruption', 'socialUnrest', 'naturalDisasters']
+13399    113.38
+13400    113.34
+13401    113.36
+13402    113.62
+13403    113.64
+Name: lastPrice, dtype: float64
+[ 0.08]
+113.228
+===== Estimated Winning Rate: 1.0
+2017-05-1510:00:00,: Prediction = ,0,===== Actual PL = ,-0.0,===== Acumulative PL = ,-0.5,=====,113.55,:,113.43
+['RU', 'ZA', 'IL']
+['governmentCorruption', 'socialUnrest', 'naturalDisasters']
+13400    113.34
+13401    113.36
+13402    113.62
+13403    113.64
+13404    113.55
+Name: lastPrice, dtype: float64
+[ 0.07]
+113.292
+===== Estimated Winning Rate: 1.0
+2017-05-1511:00:00,: Prediction = ,1,===== Actual PL = ,-0.01,===== Acumulative PL = ,-0.51,=====,113.43,:,113.42
+['RU', 'ZA', 'IL']
+['governmentCorruption', 'socialUnrest', 'naturalDisasters']
+13401    113.36
+13402    113.62
+13403    113.64
+13404    113.55
+13405    113.43
+Name: lastPrice, dtype: float64
+[ 0.007]
+113.499
+===== Estimated Winning Rate: 1.0
+2017-05-1512:00:00,: Prediction = ,0,===== Actual PL = ,0.0,===== Acumulative PL = ,-0.51,=====,113.42,:,113.48
+['RU', 'ZA', 'IL']
+['governmentCorruption', 'socialUnrest', 'naturalDisasters']
+13402    113.62
+13403    113.64
+13404    113.55
+13405    113.43
+13406    113.42
+Name: lastPrice, dtype: float64
+[-0.061]
+113.715
+===== Estimated Winning Rate: 1.0
+2017-05-1513:00:00,: Prediction = ,-1,===== Actual PL = ,0.17,===== Acumulative PL = ,-0.34,=====,113.48,:,113.31
+['RU', 'ZA', 'IL']
+['governmentCorruption', 'socialUnrest', 'naturalDisasters']
+13403    113.64
+13404    113.55
+13405    113.43
+13406    113.42
+13407    113.48
+Name: lastPrice, dtype: float64
+[-0.045]
+113.639
+===== Estimated Winning Rate: 0.969899665552
+2017-05-1514:00:00,: Prediction = ,0,===== Actual PL = ,0.0,===== Acumulative PL = ,-0.34,=====,113.31,:,113.63
+['RU', 'ZA', 'IL']
+['governmentCorruption', 'socialUnrest', 'naturalDisasters']
+13404    113.55
+13405    113.43
+13406    113.42
+13407    113.48
+13408    113.31
+Name: lastPrice, dtype: float64
+[-0.043]
+113.567
+===== Estimated Winning Rate: 1.0
+2017-05-1515:00:00,: Prediction = ,0,===== Actual PL = ,-0.0,===== Acumulative PL = ,-0.34,=====,113.63,:,113.6
+['RU', 'ZA', 'IL']
+['governmentCorruption', 'socialUnrest', 'naturalDisasters']
+13405    113.43
+13406    113.42
+13407    113.48
+13408    113.31
+13409    113.63
+Name: lastPrice, dtype: float64
+[ 0.029]
+113.367
+===== Estimated Winning Rate: 0.946488294314
+2017-05-1516:00:00,: Prediction = ,1,===== Actual PL = ,-0.07,===== Acumulative PL = ,-0.41,=====,113.6,:,113.53
+['RU', 'ZA', 'IL']
+['governmentCorruption', 'socialUnrest', 'naturalDisasters']
+13406    113.42
+13407    113.48
+13408    113.31
+13409    113.63
+13410    113.60
+Name: lastPrice, dtype: float64
+[ 0.051]
+113.335
+===== Estimated Winning Rate: 0.943143812709
+2017-05-1517:00:00,: Prediction = ,1,===== Actual PL = ,0.04,===== Acumulative PL = ,-0.37,=====,113.53,:,113.57
+['RU', 'ZA', 'IL']
+['governmentCorruption', 'socialUnrest', 'naturalDisasters']
+13407    113.48
+13408    113.31
+13409    113.63
+13410    113.60
+13411    113.53
+Name: lastPrice, dtype: float64
+[ 0.039]
+113.393
+===== Estimated Winning Rate: 0.943143812709
+2017-05-1518:00:00,: Prediction = ,1,===== Actual PL = ,0.24,===== Acumulative PL = ,-0.13,=====,113.57,:,113.81
+['RU', 'ZA', 'IL']
+['governmentCorruption', 'socialUnrest', 'naturalDisasters']
+13408    113.31
+13409    113.63
+13410    113.60
+13411    113.53
+13412    113.57
+Name: lastPrice, dtype: float64
+[ 0.042]
+113.402
+===== Estimated Winning Rate: 0.943143812709
+2017-05-1519:00:00,: Prediction = ,1,===== Actual PL = ,-0.14,===== Acumulative PL = ,-0.27,=====,113.81,:,113.67
+['RU', 'ZA', 'IL']
+['governmentCorruption', 'socialUnrest', 'naturalDisasters']
+13409    113.63
+13410    113.60
+13411    113.53
+13412    113.57
+13413    113.81
+Name: lastPrice, dtype: float64
+[ 0.033]
+113.529
+===== Estimated Winning Rate: 0.943143812709
+2017-05-1520:00:00,: Prediction = ,0,===== Actual PL = ,0.0,===== Acumulative PL = ,-0.27,=====,113.67,:,113.74
+['RU', 'ZA', 'IL']
+['governmentCorruption', 'socialUnrest', 'naturalDisasters']
+13410    113.60
+13411    113.53
+13412    113.57
+13413    113.81
+13414    113.67
+Name: lastPrice, dtype: float64
+[ 0.042]
+113.51
+===== Estimated Winning Rate: 0.95652173913
+2017-05-1521:00:00,: Prediction = ,1,===== Actual PL = ,0.03,===== Acumulative PL = ,-0.24,=====,113.74,:,113.77
+['RU', 'ZA', 'IL']
+['governmentCorruption', 'socialUnrest', 'naturalDisasters']
+13411    113.53
+13412    113.57
+13413    113.81
+13414    113.67
+13415    113.74
+Name: lastPrice, dtype: float64
+[ 0.052]
+113.508
+===== Estimated Winning Rate: 0.943143812709
+2017-05-1522:00:00,: Prediction = ,1,===== Actual PL = ,-0.18,===== Acumulative PL = ,-0.42,=====,113.77,:,113.59
+['RU', 'ZA', 'IL']
+['governmentCorruption', 'socialUnrest', 'naturalDisasters']
+13412    113.57
+13413    113.81
+13414    113.67
+13415    113.74
+13416    113.77
+Name: lastPrice, dtype: float64
+[ 0.033]
+113.613
+===== Estimated Winning Rate: 0.943143812709
+2017-05-1523:00:00,: Prediction = ,0,===== Actual PL = ,0.0,===== Acumulative PL = ,-0.42,=====,113.59,:,113.63
+['RU', 'ZA', 'IL']
+['governmentCorruption', 'socialUnrest', 'naturalDisasters']
+13413    113.81
+13414    113.67
+13415    113.74
+13416    113.77
+13417    113.59
+Name: lastPrice, dtype: float64
+[-0.034]
+113.818
+===== Estimated Winning Rate: 0.936454849498
+2017-05-1600:00:00,: Prediction = ,0,===== Actual PL = ,0.0,===== Acumulative PL = ,-0.42,=====,113.63,:,113.63
+['RU', 'ZA', 'IL']
+['governmentCorruption', 'socialUnrest', 'naturalDisasters']
+13414    113.67
+13415    113.74
+13416    113.77
+13417    113.59
+13418    113.63
+Name: lastPrice, dtype: float64
+[-0.023]
+113.749
+===== Estimated Winning Rate: 0.943143812709
+2017-05-1601:00:00,: Prediction = ,0,===== Actual PL = ,0.0,===== Acumulative PL = ,-0.42,=====,113.63,:,113.68
+['RU', 'ZA', 'IL']
+['governmentCorruption', 'socialUnrest', 'naturalDisasters']
+13415    113.74
+13416    113.77
+13417    113.59
+13418    113.63
+13419    113.63
+Name: lastPrice, dtype: float64
+[-0.036]
+113.78
+===== Estimated Winning Rate: 0.943143812709
+2017-05-1602:00:00,: Prediction = ,0,===== Actual PL = ,-0.0,===== Acumulative PL = ,-0.42,=====,113.68,:,113.53
+['RU', 'ZA', 'IL']
+['governmentCorruption', 'socialUnrest', 'naturalDisasters']
+13416    113.77
+13417    113.59
+13418    113.63
+13419    113.63
+13420    113.68
+Name: lastPrice, dtype: float64
+[-0.014]
+113.702
+===== Estimated Winning Rate: 0.943143812709
+2017-05-1603:00:00,: Prediction = ,0,===== Actual PL = ,-0.0,===== Acumulative PL = ,-0.42,=====,113.53,:,113.42
+['RU', 'ZA', 'IL']
+['governmentCorruption', 'socialUnrest', 'naturalDisasters']
+13417    113.59
+13418    113.63
+13419    113.63
+13420    113.68
+13421    113.53
+Name: lastPrice, dtype: float64
+[-0.007]
+113.633
+===== Estimated Winning Rate: 0.936454849498
+2017-05-1604:00:00,: Prediction = ,0,===== Actual PL = ,0.0,===== Acumulative PL = ,-0.42,=====,113.42,:,113.5
+['RU', 'ZA', 'IL']
+['governmentCorruption', 'socialUnrest', 'naturalDisasters']
+13418    113.63
+13419    113.63
+13420    113.68
+13421    113.53
+13422    113.42
+Name: lastPrice, dtype: float64
+[-0.052]
+113.734
+===== Estimated Winning Rate: 0.943143812709
+2017-05-1605:00:00,: Prediction = ,0,===== Actual PL = ,0.0,===== Acumulative PL = ,-0.42,=====,113.5,:,113.5
+['RU', 'ZA', 'US']
+['governmentCorruption', 'socialUnrest', 'residentialRealEstateSentiment']
+13419    113.63
+13420    113.68
+13421    113.53
+13422    113.42
+13423    113.50
+Name: lastPrice, dtype: float64
+[-0.052]
+113.708
+===== Estimated Winning Rate: 0.986622073579
+2017-05-1606:00:00,: Prediction = ,0,===== Actual PL = ,-0.0,===== Acumulative PL = ,-0.42,=====,113.5,:,113.47
+['RU', 'ZA', 'US']
+['governmentCorruption', 'socialUnrest', 'residentialRealEstateSentiment']
+13420    113.68
+13421    113.53
+13422    113.42
+13423    113.50
+13424    113.50
+Name: lastPrice, dtype: float64
+[-0.039]
+113.643
+===== Estimated Winning Rate: 0.986622073579
+2017-05-1607:00:00,: Prediction = ,-1,===== Actual PL = ,0.2,===== Acumulative PL = ,-0.22,=====,113.47,:,113.27
+['RU', 'US', 'ZA']
+['governmentCorruption', 'residentialRealEstateSentiment', 'socialUnrest']
+13421    113.53
+13422    113.42
+13423    113.50
+13424    113.50
+13425    113.47
+Name: lastPrice, dtype: float64
+[-0.004]
+113.496
+===== Estimated Winning Rate: 0.986622073579
+2017-05-1608:00:00,: Prediction = ,0,===== Actual PL = ,0.0,===== Acumulative PL = ,-0.22,=====,113.27,:,113.44

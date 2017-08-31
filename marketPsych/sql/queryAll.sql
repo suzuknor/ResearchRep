@@ -1,0 +1,61 @@
+#!/bin/sh
+
+appRoot="/home/suzuknor/devel/marketPsych"
+
+cd $appRoot/sql
+count=$1
+
+countries="JP US CN CA CL BR AU EG FR DE GR IN IR IQ IL IT LY MX KP RU ZA CH GB AR UA"
+currencies="JPY USD EUR GBP CNY AUD BRL CAD AUD NZD RUB ZAR CHF"
+comm_energies="CPPR CRU MOG HOIL NAP NGS GOL NKL PLAT PALL STEE SLVR BIOETH"
+comm_agri="COF COR COT HOGS ORJ POIL SOY1 SUG WHT CTTL"
+prices="JPY EURJPY GBPJPY CHFJPY CADJPY AUDJPY NZDJPY"
+comm_prices="Cc1 Sc1 Wc1"
+
+# COUNTRIES QUERY
+for cou in $countries
+do
+	echo $cou
+	./queryAsset.sql $cou COU $count
+done
+
+# COUNTRIES QUERY
+for cur in $currencies
+do
+	echo $cur
+	./queryAsset.sql $cur CUR $count
+done
+
+# COMM ENM QUERY
+for enm in $comm_energies
+do
+	echo $enm
+	./queryAsset.sql $enm COM_ENM $count
+done
+
+# COMM AGR QUERY
+for agr in $comm_agri
+do
+	echo $agr
+	./queryAsset.sql $agr COM_AGR $count
+done
+
+# PRICE QUERY
+for prc in $prices
+do
+	echo $prc
+	./queryPrice.sql $prc'=' $prc $count
+done
+
+for comm in $comm_prices
+do
+    echo $comm
+    ./queryPrice.sql $comm $comm $count
+done
+
+# NK225
+./queryPrice.sql NK225 JNIc1 $count
+./queryPrice.sql SP500 ESc1 $count
+./queryPrice.sql Softbank 9984.T 6000
+./queryPrice.sql Nintendo 7974.T 6000
+./queryPrice.sql Avex 7860.T 6000

@@ -1,0 +1,11 @@
+Correlation,Country Code,Index
+0.7384743889416205,IL,consumerSentiment
+0.7111623914776796,IL,creditEasyVsTight
+0.7020469368890246,KP,creditEasyVsTight
+0.6998237179436021,IN,residentialRealEstateGrowth
+0.6931202630713539,KP,businessExpansion
+0.6923175096706937,AU,financialSystemInstability
+0.6902779296193144,EG,socialInequality
+0.6839477097380005,KP,economicVolatility
+0.6799321083250504,CN,governmentAnger
+0.676925444674205,KP,monetaryPolicyLooseVsTight
